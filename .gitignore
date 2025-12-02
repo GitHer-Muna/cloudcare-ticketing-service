@@ -50,8 +50,13 @@ docker-compose.override.yml
 uploads/
 temp/
 
-# Temporary/Debug files
-CHECKLIST.md
+# Temporary/Debug files (old/duplicate documentation)
+DEPLOYMENT_GUIDE.md
+GITHUB_PAGES_DEPLOYMENT.md
+PRE_PUSH_CHECKLIST.md
+READY_TO_PUSH.md
+prepare-push.sh
+quick-push.sh
 COMMANDS.md
 DEVCONTAINER_SETUP.md
 QUICKFIX.md
